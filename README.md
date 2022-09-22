@@ -12,7 +12,7 @@ If you think my work is worth being supported, you can support me on Boosty. See
 
 ## Become my student 
 
-**Online spots taken**: `2 / 5`
+**Online spots taken**: `3 / 5`
 
 If you want to learn how to design and develop modern, beautiful, featureful websites and desktop apps like [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager), you can become my student and I will teach you. 
 
@@ -28,6 +28,6 @@ If you want to learn how to design and develop modern, beautiful, featureful web
   - **Future skills**: You will get the skills needed for the era of automation, and be ready to change your job when it gets automated. Or maybe you just want to change your work field? Whatever it is, you will get the skills to make it possible;
   - **General knowledge**: You will learn how the things like the internet actually functions, how do we make computers do what we tell them, how we create artificial intelligence, etc.
 
-**Tutoring rate**: $25 / hour
+**Tutoring rate**: $35 / hour
 
 Contact me via email, twitter, or Discord (send friend request to: aleksey-hoffman#7189) to discuss details and get started.
