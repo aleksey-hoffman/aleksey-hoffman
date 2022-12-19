@@ -1,16 +1,41 @@
-## Links to my profiles
+# My profiles
 
 [Twitter](https://twitter.com/hoffman_aleksey) | [Reddit](https://www.reddit.com/user/AlekseyHoffman)
 
-## Support my work
+# Support my work
 
-If you think my work is worth being supported, you can support me on Boosty. See the list of rewards you will get:
+![supporter-goal-progress](https://user-images.githubusercontent.com/61761672/184556462-803af5f2-3ad6-44fb-be54-4a923d9baf22.png)
 
-<a href="https://boosty.to/sigma-file-manager">
-  <img width="100px" src="https://github.com/aleksey-hoffman/sigma-file-manager/raw/main/.github/media/boosty-button.png">
-</a>
+If you think my work is worth being supported, you can support me with crypto:
 
-## Become my student 
+<table>
+  <thead>
+    <tr>
+      <th>Crypto network</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BTC</td>
+      <td width="320px">
+        <code>bc1qv5ujcuwjsk505qjhd3sptcf3xpvjktqjxj0wrc</code>
+      </td>
+    </tr>
+    <tr>
+      <td>USDT (Tron TRC-20)</td>
+      <td width="320px">
+        <code>TN3hFLmjY2eXR149yKMq1qZQotmZbTGV4a</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### The rewards
+
+See the rewards you will get for supporting my work on [this page](https://github.com/aleksey-hoffman/sigma-file-manager/wiki/Supporter-rewards)
+
+# Become my student 
 
 **Online spots taken**: `3 / 5`
 
