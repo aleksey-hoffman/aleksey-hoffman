@@ -1,6 +1,6 @@
 # My profiles
 
-[Twitter](https://twitter.com/hoffman_aleksey) | [Reddit](https://www.reddit.com/user/AlekseyHoffman)
+[Twitter](https://twitter.com/sigma_developer) | [Reddit](https://www.reddit.com/r/SigmaFileManager) | [YouTube](https://www.youtube.com/@sigma-dev)
 
 # Support my work
 
