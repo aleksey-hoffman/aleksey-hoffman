@@ -2,20 +2,30 @@
 
 [Twitter](https://twitter.com/sigma_developer) | [Reddit](https://www.reddit.com/r/SigmaFileManager) | [YouTube](https://www.youtube.com/@sigma-dev)
 
-# Support my work
+# Support
 
-![supporter-goal-progress](https://user-images.githubusercontent.com/61761672/184556462-803af5f2-3ad6-44fb-be54-4a923d9baf22.png)
-
-If you think my work is worth being supported, you can support me with crypto:
+If you like my work, consider supporting me on Patreon (monthly, with [rewards](https://patreon.com/sigma_file_manager)) or via crypto:
 
 <table>
   <thead>
     <tr>
-      <th>Crypto network</th>
+      <th>Platform</th>
       <th>Address</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Patreon</td>
+      <td width="320px">
+        <a target="_blank" href="https://patreon.com/sigma_file_manager">
+          <img
+            src="https://raw.githubusercontent.com/aleksey-hoffman/sigma-file-manager/main/.github/media/patreon_button.png"
+            width="164px"
+            style="box-shadow: 0px 6px 24px rgb(255, 66, 77, 0.2); margin: 16px 0"
+          />
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>BTC</td>
       <td width="320px">
