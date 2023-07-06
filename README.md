@@ -4,7 +4,7 @@
 
 # Support
 
-If you like my work, consider supporting me on Patreon (monthly, with [rewards](https://patreon.com/sigma_file_manager)) or via crypto:
+Consider supporting my work:
 
 <table>
   <thead>
@@ -15,7 +15,7 @@ If you like my work, consider supporting me on Patreon (monthly, with [rewards](
   </thead>
   <tbody>
     <tr>
-      <td>Patreon</td>
+      <td>Patreon (monthly, with <a target="_blank" href="https://patreon.com/sigma_file_manager">rewards</a>)</td>
       <td width="320px">
         <a target="_blank" href="https://patreon.com/sigma_file_manager">
           <img
@@ -23,6 +23,14 @@ If you like my work, consider supporting me on Patreon (monthly, with [rewards](
             width="164px"
             style="box-shadow: 0px 6px 24px rgb(255, 66, 77, 0.2); margin: 16px 0"
           />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Buymeacoffee</td>
+      <td width="320px">
+        <a href="https://www.buymeacoffee.com/alekseyhoffman" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="164px">
         </a>
       </td>
     </tr>
