@@ -1,6 +1,6 @@
-# My profiles
+# My profiles, communities and channels
 
-[Twitter](https://twitter.com/sigma__dev) | [Reddit](https://www.reddit.com/r/SigmaFileManager) | [YouTube](https://www.youtube.com/@sigma-dev)
+[Twitter](https://twitter.com/sigma__dev) | [Reddit](https://www.reddit.com/r/SigmaFileManager) | [Telegram](https://t.me/sigma_devs) | [YouTube](https://www.youtube.com/@sigma-dev)
 
 # Support
 
