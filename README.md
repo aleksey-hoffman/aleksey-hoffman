@@ -21,16 +21,7 @@ Consider supporting my work:
           <img
             src="https://raw.githubusercontent.com/aleksey-hoffman/sigma-file-manager/main/.github/media/patreon_button.png"
             width="164px"
-            style="box-shadow: 0px 6px 24px rgb(255, 66, 77, 0.2); margin: 16px 0"
           />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Buymeacoffee</td>
-      <td width="320px">
-        <a href="https://www.buymeacoffee.com/alekseyhoffman" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="164px">
         </a>
       </td>
     </tr>
@@ -71,4 +62,4 @@ If you want to learn how to design and develop modern, beautiful, featureful web
 
 **Tutoring rate**: $35 / hour
 
-Contact me via email, twitter, or Discord (send friend request to: aleksey-hoffman#7189) to discuss details and get started.
+Contact me via email, twitter, or Discord (send friend request to: `sigma_dev`) to discuss details and get started.
