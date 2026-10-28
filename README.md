@@ -1,65 +1,63 @@
-# My profiles, communities and channels
+<h1 align="center">Hi, I'm Aleksey Hoffman (sigma-dev) 👋</h1>
 
-[Twitter](https://twitter.com/sigma__dev) | [Reddit](https://www.reddit.com/r/SigmaFileManager) | [Telegram](https://t.me/sigma_devs) | [YouTube](https://www.youtube.com/@sigma-dev)
+<p align="center">
+  Senior software engineer, UI/UX designer and researcher.<br/>
+  I build modern, cutting-edge open-source apps, web services and UI libraries.
+</p>
 
-# Support
+<p align="center">
+  <a href="https://x.com/sigma__dev"><img src="https://img.shields.io/badge/X-@sigma____dev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.reddit.com/r/SigmaFileManager"><img src="https://img.shields.io/badge/Reddit-r%2FSigmaFileManager-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://www.youtube.com/@sigma-dev"><img src="https://img.shields.io/badge/YouTube-@sigma--dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
-Consider supporting my work:
+## Public projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Platform</th>
-      <th>Address</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Patreon (monthly, with <a target="_blank" href="https://patreon.com/sigma_file_manager">rewards</a>)</td>
-      <td width="320px">
-        <a target="_blank" href="https://patreon.com/sigma_file_manager">
-          <img
-            src="https://raw.githubusercontent.com/aleksey-hoffman/sigma-file-manager/main/.github/media/patreon_button.png"
-            width="164px"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>BTC</td>
-      <td width="320px">
-        <code>bc1qv5ujcuwjsk505qjhd3sptcf3xpvjktqjxj0wrc</code>
-      </td>
-    </tr>
-    <tr>
-      <td>USDT (Tron TRC-20)</td>
-      <td width="320px">
-        <code>TN3hFLmjY2eXR149yKMq1qZQotmZbTGV4a</code>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aleksey-hoffman/sigma-file-manager">
+        <img src="https://raw.githubusercontent.com/aleksey-hoffman/sigma-file-manager/main/.github/media/logo-1024x1024.png" width="48" align="left" alt="Sigma File Manager logo"/>
+      </a>
+      <h3><a href="https://github.com/aleksey-hoffman/sigma-file-manager">Sigma File Manager</a></h3>
+      A free, open-source, modern file manager for Windows and Linux.
+      <br/><br/>
+      <a href="https://github.com/aleksey-hoffman/sigma-file-manager/stargazers"><img src="https://img.shields.io/github/stars/aleksey-hoffman/sigma-file-manager?style=flat-square&color=6366f1" alt="Stars"/></a>
+      <a href="https://github.com/aleksey-hoffman/sigma-file-manager/releases"><img src="https://img.shields.io/github/v/release/aleksey-hoffman/sigma-file-manager?style=flat-square&color=6366f1" alt="Latest release"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sigma-hub/sigma-ui">
+        <img src="https://raw.githubusercontent.com/sigma-hub/sigma-ui/main/apps/docs/src/public/apple-touch-icon.png" width="48" align="left" alt="Sigma UI logo"/>
+      </a>
+      <h3><a href="https://github.com/sigma-hub/sigma-ui">Sigma UI</a></h3>
+      Well designed components for your Vue apps, built on Reka UI (Radix) primitives. Similar to shadcn/ui.
+      <br/><br/>
+      <a href="https://github.com/sigma-hub/sigma-ui/stargazers"><img src="https://img.shields.io/github/stars/sigma-hub/sigma-ui?style=flat-square&color=6366f1" alt="Stars"/></a>
+      <a href="https://www.npmjs.com/package/sigma-ui"><img src="https://img.shields.io/npm/v/sigma-ui?style=flat-square&color=6366f1" alt="npm"/></a>
+      <a href="https://sigma-ui.dev"><img src="https://img.shields.io/badge/docs-sigma--ui.dev-6366f1?style=flat-square" alt="Docs"/></a>
+    </td>
+  </tr>
 </table>
 
-### The rewards
+## Support my work
 
-See the rewards you will get for supporting my work on [this page](https://github.com/aleksey-hoffman/sigma-file-manager/wiki/Supporter-rewards)
+If my projects help you, consider supporting them:
 
-# Become my student 
-
-**Online spots taken**: `3 / 5`
-
-If you want to learn how to design and develop modern, beautiful, featureful websites and desktop apps like [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager), you can become my student and I will teach you. 
-
-- In about `8 lessons`:
-  - I will teach you all the basics of programming and design, You will get enough skills to design and develop simple web sites and desktop apps.
-  - 🎁 **Supporter rewards**: as a bonus, you will also get all rewards of the "Level-4 supporter" described on [this page](https://github.com/aleksey-hoffman/sigma-file-manager/wiki/Supporter-rewards) and have them for as long as you are attending the lessons.
-- After about `30 lessons`, you will get:
-  - **Specialization**: `Junior+` grade frontend developer (median yearly salary: `~$85,000` in US);
-  - **Potential specializations**: if you keep learning you will eventually reach Middle or even Senior grade level and earn much higher salary;
-  - **New skills / job**: the skills you will get from these lessons will allow you to create projects you never could before, and might interest you in things you never even thought about, like game development, personal original web projects, things that are more interesting than your current job;
-  - **Future skills**: You will get the skills needed for the era of automation, and be ready to change your job when it gets automated. Or maybe you just want to change your work field? Whatever it is, you will get the skills to make it possible;
-  - **General knowledge**: You will learn how the things like the internet actually functions, how do we make computers do what we tell them, how we create artificial intelligence, etc.
-
-**Tutoring rate**: $35 / hour
-
-Contact me via email, twitter, or Discord (send friend request to: `sigma_dev`) to discuss details and get started.
+<table>
+  <tr>
+    <td>Patreon (monthly, with <a href="https://github.com/aleksey-hoffman/sigma-file-manager/wiki/Supporter-rewards">rewards</a>)</td>
+    <td>
+      <a href="https://patreon.com/sigma_file_manager">
+        <img src="https://raw.githubusercontent.com/aleksey-hoffman/sigma-file-manager/main/.github/media/patreon_button.png" width="164" alt="Support on Patreon"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>BTC</td>
+    <td><code>bc1qv5ujcuwjsk505qjhd3sptcf3xpvjktqjxj0wrc</code></td>
+  </tr>
+  <tr>
+    <td>USDT (Tron TRC-20)</td>
+    <td><code>TN3hFLmjY2eXR149yKMq1qZQotmZbTGV4a</code></td>
+  </tr>
+</table>
